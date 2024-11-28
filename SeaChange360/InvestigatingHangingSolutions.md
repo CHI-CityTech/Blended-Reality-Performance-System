@@ -1,14 +1,14 @@
 # Proposal: Development and Testing for the *SeaChange* Immersive Installation
 
-## Project Description
-
-### Detailed Project Description: *SeaChange* Immersive Installation
+## 1. Project Description
 
 *SeaChange* is a 360-degree multimedia installation designed to transport audiences into a fully immersive environment that merges visual storytelling with rich soundscapes. Drawing inspiration from the ocean's beauty, power, and mystery, the project explores the intricate relationship between humanity and the natural world. Featuring local NYC surfers, the piece dives into the ocean and human connection, traversing the evolutionary origin of life on our planet. 
 
-The viewer becomes a participant as *SeaChange* surrounds them, occupying their entire visual and audio field. The immersive experience runs for approximately 20 minutes and will be a part of a 90-minute evening event. It is the creation of painter/multimedia artists [Debrah Pearson Feinn](https://www.instagram.com/debrah_feinn/) and [Jerry Fried](https://www.facebook.com/jerryfriedhome/). supported by a team of craftspeople and surfers who advocate for a restored and healthy ocean. A preview of the installation, including 360-degree perspectives, can be accessed online.
+The viewer becomes a participant as *SeaChange* surrounds them, occupying their entire visual and audio field. The immersive experience runs for approximately 20 minutes and will be a part of a 90-minute evening event. It is the creation of painter/multimedia artists [**Debrah Pearson Feinn**](https://www.instagram.com/debrah_feinn/) and [**Jerry Fried**](https://www.facebook.com/jerryfriedhome/). supported by a team of craftspeople and surfers who advocate for a restored and healthy ocean. A preview of the installation, including 360-degree perspectives, can be accessed online.
 
-The installation will be presented in [Fletcher Hall](https://www.uumontclair.org/rentals/) at the Unitarian Universalist Congregation at Montclair (UUCM), located at **67 Church Street, Montclair, NJ** in Spring 2025. Testing and prototyping for the installation are being conducted at **City Tech, CUNY Brooklyn**, studio LG-038, utilizing its advanced facilities and sound stage. These spaces provide the ideal environment to evaluate and refine the visual, auditory, and structural components of the project before the final installation.
+The installation will be presented in [Fletcher Hall](https://www.uumontclair.org/rentals/) at the Unitarian Universalist Congregation at Montclair (UUCM), located at **67 Church Street, Montclair, NJ** in Spring 2025. Testing and prototyping for the installation are being conducted at **City Tech, CUNY Brooklyn**, Studio LG-038, utilizing its advanced facilities and sound stage. These spaces provide the ideal environment to evaluate and refine the visual, auditory, and structural components of the project before the final installation.
+
+The testing and prototyping for the *SeaChange* installation are led by [**Dr. David B. Smith**](https://sites.google.com/view/drdavidbsmith/home) and students of his, utilizing the advanced facilities and sound stage at City Tech, CUNY Brooklyn. This phase focuses on evaluating projection fabrics, structural systems, and immersive audio setups to ensure the installation achieves its technical and artistic goals. Through rigorous experimentation and refinement, the initiative aims to finalize a seamless and adaptable design for the immersive environment.
 
 ### **Audience Experience**
 Upon entering the installation, participants encounter a circular projection screen suspended from the ceiling, with its bottom edge approximately 5 feet above the ground. This design allows audience members to duck under the screen, granting them the freedom to explore the exhibition from either within or outside the enclosure. The projections wrap seamlessly around the screen, creating a continuous and unbroken visual field.
@@ -31,7 +31,6 @@ The installation operates in near-total darkness, amplifying the impact of the p
 ### **Connection to the Audience**
 Through its captivating visuals and soundscapes, *SeaChange* offers an intimate and thought-provoking experience that immerses participants in the ocean’s beauty and interconnectedness. By providing the freedom to engage with the installation from multiple perspectives, the piece invites audiences to reflect on humanity’s relationship with the natural world, fostering awe, curiosity, and a sense of environmental stewardship.
 
----
 ### System Requirements
 
 1. **Dual-Direction Projection**: The screen must provide high-quality brightness, contrast, and clarity for both front and rear projection.
@@ -42,7 +41,7 @@ Through its captivating visuals and soundscapes, *SeaChange* offers an intimate 
 6. **Blackout Environment**: The installation will take place in a controlled lighting environment, with glow strips for minimal orientation lighting.
 7. **Audience Interaction**: Allow for audience movement within and around the installation without compromising visual integrity.
 
-Testing and prototyping will occur in Weeks 2–4 of January 2025 at City Tech's sound stage, leveraging its grid and tracks to develop and optimize the system.
+Testing and prototyping will occur in Weeks 2–4 of January 2025 at City Tech's sound stage, leveraging its installed infrastructure to develop and optimize the system.
 
 ---
 
@@ -56,8 +55,6 @@ Testing and prototyping will occur in Weeks 2–4 of January 2025 at City Tech's
   - Meet with Rev. Scott Sammler-Michael to finalize the installation site logistics at the Montclair UU Church.
 - **Procurement**:
   - Order tensioning hardware, connectors, and other necessary materials.
-
----
 
 ### **January 2025: Testing and Development**
 #### **Week 2: Setup**
@@ -79,7 +76,7 @@ Testing and prototyping will occur in Weeks 2–4 of January 2025 at City Tech's
 
 ---
 
-## Fabric Testing Discussion
+## 2. Fabric Testing Process
 
 The *SeaChange* installation requires a seamless projection surface for a circular structure with a diameter ranging from 15 to 20 feet. This setup demands rigorous evaluation of fabric properties, tensioning methods, and structural compatibility to optimize the delivery of the video image into the immersive environment. It is critical that the image is equally The following sections outline the testing process and considerations specific to this scale.
 
