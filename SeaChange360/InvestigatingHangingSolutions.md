@@ -116,6 +116,18 @@ The *SeaChange* installation requires a seamless projection surface for a circul
 
 ### Bottom Connection Testing
 
+The bottom connection of the projection fabric plays a crucial role in ensuring the screen remains smooth and distortion-free while accommodating audience interaction. For the *SeaChange* installation, simplicity and flexibility are key design goals. A preferred solution would eliminate the need for rigid support at the bottom, as such structures could impede audience movement, particularly when participants duck under the screen to experience the installation from inside the enclosure. 
+
+While a rigid bottom frame can provide uniform tension, it presents challenges in terms of practicality and audience accessibility. Instead, we aim to explore less intrusive methods that maintain fabric tautness while minimizing surface distortion. Weighted edges or free-hanging configurations may offer effective alternatives, balancing simplicity with functionality. 
+
+The testing will focus on how various bottom connection methods influence:
+- **Fabric Distortion**: Evaluating which approach minimizes wrinkles and maintains a smooth projection surface.
+- **Audience Accessibility**: Ensuring the setup allows participants to move freely under and around the screen without obstruction.
+- **Ease of Installation**: Prioritizing solutions that are lightweight, adaptable, and simple to set up in diverse venues.
+
+By emphasizing flexibility and practicality, the goal is to identify a bottom connection method that complements the immersive nature of *SeaChange* without introducing visual or physical barriers for the audience.
+
+
 #### **1. Rigid Secondary Structure**
 - **Setup**:
   - Attach a rigid frame or pipe to the fabric’s bottom edge.
