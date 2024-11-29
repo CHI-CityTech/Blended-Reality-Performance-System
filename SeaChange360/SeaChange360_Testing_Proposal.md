@@ -147,8 +147,9 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Ideal for high-resolution visuals in immersive environments.
 - **Amount in Inventory**: 4 yards
 - **Notes**: Glowup is washable, lightweight, and durable, making it a top choice for large-scale installations requiring seamless visuals.
+- [**Glowup - Rose Brand**](https://www.rosebrand.com/product4386/GlowUp-IFR.aspx)
 
-[**Glowup - Rose Brand**](https://www.rosebrand.com/product4386/GlowUp-IFR.aspx)
+
 
 
 #### **2. SoftScreen, IFR White**
@@ -160,8 +161,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Uniform light diffusion ensures no hotspots or uneven illumination.
 - **Amount in Inventory**: 4 yards
 - **Notes**: SoftScreen is easy to handle and install, making it suitable for both temporary and permanent installations.
-
-[**SoftScreen - Rose Brand**](https://www.rosebrand.com)
+- [**SoftScreen - Rose Brand**](https://www.rosebrand.com)
 
 
 #### **3. Rosco Rear Projection Screen**
@@ -173,8 +173,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Highly durable, suitable for repeated installations and handling.
 - **Amount in Inventory**: Not in stock (Suggested for purchase)
 - **Notes**: This screen is ideal for installations requiring optimal image quality in low-light or blackout environments.
-
-[**Rosco Rear Projection Screen**](https://www.rosebrand.com/product3565/122-SoftScreen-IFR.aspx)
+- [**Rosco Rear Projection Screen**](https://www.rosebrand.com/product3565/122-SoftScreen-IFR.aspx)
 
 
 #### **4. Grey Spandex (Tendo, IFR)**
@@ -186,8 +185,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Durable and washable, suitable for repeated use.
 - **Amount in Inventory**: Not in stock (Suggested for purchase)
 - **Notes**: Tendo’s stretchability and durability make it versatile for immersive installations requiring adaptable surfaces.
-
-[**Tendo, IFR - Rose Brand**](https://www.rosebrand.com/product1998/122-Tendo-IFR.aspx)
+- [**Tendo, IFR - Rose Brand**](https://www.rosebrand.com/product1998/122-Tendo-IFR.aspx)
 
 #### **5. Grey Spandex (Boost, IFR)**
 - **Description**: Boost is a heavyweight stretch fabric with exceptional durability and stability under tension. It provides consistent light diffusion and works well for both front and rear projection.
@@ -198,10 +196,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Matte finish minimizes glare while maintaining image quality.
 - **Amount in Inventory**: Not in stock (Suggested for purchase)
 - **Notes**: Boost is ideal for applications requiring a robust and stretchable material that can withstand frequent use.
-
-[**Boost, IFR - Rose Brand**](https://www.rosebrand.com/product3426/122-Boost-IFR.aspx)
-
----
+- [**Boost, IFR - Rose Brand**](https://www.rosebrand.com/product3426/122-Boost-IFR.aspx)
 
 #### **6. Hologauze**
 - **Description**: Hologauze is a highly transparent fabric designed for creating holographic projection effects. It excels in environments where sharp image clarity and layered visual effects are desired.
@@ -212,8 +207,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Lightweight and easy to install in various configurations.
 - **Amount in Inventory**: Not in stock (Suggested for purchase)
 - **Notes**: Best suited for installations requiring both projection and semi-transparent visual effects.
-
-[**Hologauze - Rose Brand**](https://www.rosebrand.com/subcategory773/darknet-fabrics.aspx)
+- [**Hologauze - Rose Brand**](https://www.rosebrand.com/subcategory773/darknet-fabrics.aspx)
 
 #### **7. Sharkstooth Scrim, White**
 - **Description**: Sharkstooth Scrim is a classic theatrical fabric known for its versatility in projection and lighting effects. It is suitable for both front and rear projection, offering balanced brightness and contrast.
@@ -224,8 +218,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Durable and easy to handle for large installations.
 - **Amount in Inventory**: 4 yards
 - **Notes**: This scrim is particularly useful for setups requiring dynamic lighting transitions or layered projections.
-
-[**Sharkstooth Scrim - Rose Brand**](https://www.rosebrand.com/product743/10-9-to-39-Sharkstooth-Scrim-FR.aspx)
+- [**Sharkstooth Scrim - Rose Brand**](https://www.rosebrand.com/product743/10-9-to-39-Sharkstooth-Scrim-FR.aspx)
 
 #### **8. Fine Gauze, FR White**
 - **Description**: Fine Gauze is a lightweight fabric designed for delicate and ethereal projection effects. It offers moderate transparency, making it suitable for creative layering and diffusion.
@@ -236,8 +229,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Lightweight and portable for temporary installations.
 - **Amount in Inventory**: 4 yards
 - **Notes**: Fine Gauze is ideal for artistic applications where projection clarity is less critical than visual softness and atmosphere.
-
-[**Fine Gauze - Rose Brand**](https://www.rosebrand.com/product356/9-9-19-6-Fine-Gauze-FR.aspx)
+- [**Fine Gauze - Rose Brand**](https://www.rosebrand.com/product356/9-9-19-6-Fine-Gauze-FR.aspx)
 
 #### **9. Super Sheer, IFR White**
 - **Description**: Super Sheer is an ethereal fabric offering a soft, diffused projection surface. It is lightweight and translucent, making it suitable for artistic and experimental installations.
@@ -248,8 +240,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Washable and lightweight for easy installation.
 - **Amount in Inventory**: 4 yards
 - **Notes**: While it may lack strong contrast, Super Sheer works well for projects emphasizing subtle or dreamlike aesthetics.
-
-[**Super Sheer - Rose Brand**](https://www.rosebrand.com/product4337/164-Super-Sheer-White-IFR.aspx)
+- [**Super Sheer - Rose Brand**](https://www.rosebrand.com/product4337/164-Super-Sheer-White-IFR.aspx)
 
 #### **10. Voile, IFR White**
 - **Description**: Voile is a highly transparent fabric offering soft light diffusion and is commonly used for front or rear projection with lighter scenes.
@@ -260,8 +251,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Easy to transport and handle.
 - **Amount in Inventory**: 6 yards
 - **Notes**: Voile is ideal for projects requiring highly transparent, layered visuals but may struggle with darker imagery.
-
-[**Voile - Rose Brand**](https://www.rosebrand.com/product1212/118-Voile-IFR.aspx)
+- [**Voile - Rose Brand**](https://www.rosebrand.com/product1212/118-Voile-IFR.aspx)
 
 #### **11. Batiste, IFR White**
 - **Description**: Batiste is a soft and lightweight fabric, ideal for creating delicate projections or layered effects. Its semi-sheer surface diffuses light evenly.
@@ -271,9 +261,7 @@ This section provides detailed descriptions of all selected fabrics, focusing on
   - Smooth texture enhances projection clarity.
   - Durable and washable for repeated installations.
 - **Amount in Inventory**: 6 yards
-- **Notes**: Works well for small-scale or intimate setups with a focus on soft and diffused imagery.
-
-[**Batiste - Rose Brand**](https://www.rosebrand.com/product2035/118-Batiste-IFR.aspx) 
+- **Notes**: Works well for small-scale or intimate setups with a focus on soft and diffused imagery.[**Batiste - Rose Brand**](https://www.rosebrand.com/product2035/118-Batiste-IFR.aspx) 
 
 ### 4.5 Testing Priorities
 1. **Primary Focus**:
