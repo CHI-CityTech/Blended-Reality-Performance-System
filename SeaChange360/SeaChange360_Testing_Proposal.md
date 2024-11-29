@@ -1,4 +1,4 @@
-# Proposal: Development and Testing for the *SeaChange* Immersive Installation
+# Proposal: Development and Testing for the *SeaChange 360* Immersive Installation
 Dr. David B Smith
 NYC college of Technology
 City University of New York
@@ -113,7 +113,7 @@ The testing phase aims to:
 
 #### 1.5.2 Key Testing Areas
 
-##### 1.5.2.1 Fabric Testing
+##### 1.5.2.1 [Fabric Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#4-fabric-testing) 
 - Assess projection performance for both front and rear projection, focusing on brightness, contrast, and clarity.
 - Evaluate elasticity, tensioning behavior, and the ability to maintain a smooth surface under real-world conditions.
 - Test fabric durability through repeated handling, environmental exposure, and mechanical stress simulations.
@@ -185,7 +185,9 @@ Testing will be conducted at **City Tech, CUNY Brooklyn**, during Weeks 2–4 of
 - Conduct full-scale testing, simulating final installation conditions in a blackout environment.
 - Document results and finalize recommendations.
 
-- ## 3. Site Preparation and Venue Analysis
+---
+
+## 3. Site Preparation and Venue Analysis
 
 Successful implementation of the *SeaChange* installation requires careful analysis of the test site at **City Tech, CUNY Brooklyn** and the final installation venue at the **Unitarian Universalist Congregation at Montclair (UUCM)**. This section outlines the site-specific considerations, logistical requirements, and personnel roles necessary to ensure a seamless transition from testing to deployment.
 
@@ -202,7 +204,7 @@ The testing phase will be conducted in **Studio LG-038**, a sound stage equipped
 - **Control Environment**:
   - Ability to create a blackout environment with minimal light leakage.
 
-#### 3.1.2 Personnel
+#### 3.1.2 Testing Personnel
 The following roles are essential for the testing phase:
 1. **Producer and Artistic Oversight**:
    - **Jerry Fried** will oversee the artistic vision of the project, ensuring the installation reflects the creative intent of the video project. 
@@ -219,8 +221,6 @@ The following roles are essential for the testing phase:
    - Records quantitative and qualitative results during testing, producing detailed analysis for refinement.
 7. **Student Assistants**:
    - Support setup, testing, and data collection, providing valuable experiential learning opportunities.
-
----
 
 ### 3.2 Installation Venue: UUCM, Montclair, NJ
 The final installation will take place in **Fletcher Hall**, a 45' x 45' multi-purpose room. This venue will host the immersive experience, requiring specific adaptations for the site.
@@ -241,9 +241,9 @@ The final installation will take place in **Fletcher Hall**, a 45' x 45' multi-p
 - **Safety Compliance**:
   - All structural and electrical components must meet fire codes and safety regulations.
 
-#### 3.2.3 Personnel
+#### 3.2.3 Installation and Performance Personnel
 
-Key personnel for the final installation include:
+Key personnel for the final installation should include:
 
 1. **Producer and Artistic Oversight**:
    - **Jerry Fried** will oversee the artistic aspects of the final installation, ensuring the visual and auditory elements align with the project’s creative vision.
@@ -277,33 +277,96 @@ Key personnel for the final installation include:
 
 The *SeaChange* installation requires a seamless projection surface capable of dual-direction projection (front and rear) while integrating effectively with the structural armature. To achieve this, a variety of fabrics will be tested for their ability to meet the technical and aesthetic requirements of the project. This process will evaluate each fabric's projection performance, elasticity, durability, and adaptability under real-world conditions, ensuring that the chosen material enhances the immersive experience.
 
+The testing phase for the *SeaChange* installation focuses on identifying the most effective combination of projection fabrics, structural systems, and audio-visual components. These tests are essential to ensure seamless visuals, reliable tensioning methods, and immersive soundscapes that align with the project’s goals. All experiments will replicate the final installation environment, including a circular configuration with blackout conditions, to evaluate real-world performance.
+
 ### 4.2 Testing Goals
 
 The primary objectives for fabric testing are:
 
-1. **Evaluate Projection Performance**:
-   - Test brightness, contrast, and clarity under front and rear projection setups.
-   - Assess how fabrics perform in a blackout environment with minimal ambient lighting.
+#### Summary Table
 
-2. **Assess Elasticity and Tension Behavior**:
-   - Measure the stretch and tensioning characteristics of each fabric.
-   - Determine acceptable elasticity thresholds to minimize sagging, wrinkling, or distortion.
+| **Evaluation Area**           | **Description**                                                                                                                                   | **Importance**                                   |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| **Projection Performance**     | Test brightness, contrast, and clarity for both front and rear projection setups. Evaluate performance in blackout environments with minimal light. | Ensures high-quality, immersive visuals.        |
+| **Elasticity and Tension Behavior** | Measure the stretch and tensioning characteristics of each fabric. Determine acceptable elasticity thresholds to minimize sagging, wrinkling, or distortion. | Low elasticity is critical for smooth surfaces. |
+| **Durability**                 | Assess resistance to wear, tear, and deformation under repeated use. Test performance in varying conditions, such as humidity and temperature fluctuations. | Crucial for long-term use and reliability.      |
+| **Billowing Dynamics**         | Measure recovery time after perturbations caused by airflow or physical displacement. Evaluate the influence of fabric weight and thickness on resistance to billowing. | Essential for maintaining stability and quality.|
+| **Light Diffusion and Transparency** | Analyze how evenly fabrics diffuse light for both front and rear projection. Test translucency levels to ensure high-quality visuals without hotspots or uneven illumination. | Key for dual-direction projection and uniformity. |
+| **Surface Texture**            | Evaluate the smoothness or roughness of the fabric and its effect on projection clarity.                                                        | Directly impacts the sharpness of visuals.      |
+| **Environmental Stress**       | Simulate real-world conditions, including airflow and audience interaction, to evaluate fabric stability and performance.                        | Ensures robustness in practical use scenarios.  |
 
-3. **Analyze Durability**:
-   - Test resistance to wear, tear, and deformation under repeated use.
-   - Assess long-term performance in varying environmental conditions, such as humidity or temperature fluctuations.
+#### **4.2.1 Projection Performance**
+- **Objective**:
+  - Assess brightness, contrast, and clarity for front and rear projection setups.
+  - Ensure fabrics perform optimally in blackout environments with minimal ambient light.
+- **Evaluation Process**:
+  - Use calibrated projectors to test projection quality on each fabric.
+  - Observe image consistency across the surface, checking for hotspots, uneven lighting, or color distortion.
+  - Compare performance metrics (e.g., brightness levels, sharpness) under real-world blackout conditions.
+- **Importance**:
+  - Projection performance is essential for maintaining an immersive and visually cohesive experience.
 
-4. **Examine Billowing Dynamics**:
-   - Measure recovery time after fabric perturbations caused by airflow or physical displacement.
-   - Identify how fabric weight and thickness influence resistance to billowing.
+#### **4.2.2 Elasticity and Tension Behavior**
+- **Objective**:
+  - Measure fabric stretch and tensioning behavior under stress to ensure a smooth projection surface.
+  - Define acceptable elasticity thresholds to minimize sagging, wrinkling, or distortion.
+- **Evaluation Process**:
+  - Apply tension evenly across the fabric and record elasticity measurements.
+  - Simulate long-term tensioning to observe any degradation or deformation over time.
+- **Importance**:
+  - Low elasticity is critical to maintaining a taut and distortion-free projection surface.
 
-5. **Evaluate Light Diffusion and Transparency**:
-   - Analyze how evenly fabrics diffuse light for both front and rear projection.
-   - Test translucency levels to ensure high-quality visuals without hotspots or uneven illumination.
+#### **4.2.3 Durability**
+- **Objective**:
+  - Test resistance to wear, tear, and deformation under repeated use.
+  - Assess performance under varying environmental conditions, such as humidity and temperature fluctuations.
+- **Evaluation Process**:
+  - Simulate handling and setup multiple times to evaluate wear resistance.
+  - Expose fabrics to controlled temperature and humidity variations and observe changes in performance.
+- **Importance**:
+  - Durability ensures reliability for extended use across multiple installations.
 
-6. **Simulate Environmental Stress**:
-   - Replicate real-world conditions, including airflow and audience interaction, to evaluate fabric stability.
+#### **4.2.4 Billowing Dynamics**
+- **Objective**:
+  - Measure fabric response to airflow or physical displacement, focusing on recovery time and overall stability.
+  - Evaluate how weight and thickness influence resistance to billowing.
+- **Evaluation Process**:
+  - Introduce controlled airflow or mechanical perturbations and record the time it takes for the fabric to stabilize.
+  - Test heavier versus lighter fabrics to determine optimal balance for billowing resistance.
+- **Importance**:
+  - Maintaining stability is crucial for audience immersion, especially in interactive environments.
 
+
+#### **4.2.5 Light Diffusion and Transparency**
+- **Objective**:
+  - Analyze how fabrics distribute light for seamless visuals in both front and rear projection setups.
+  - Ensure sufficient translucency to avoid hotspots or uneven illumination.
+- **Evaluation Process**:
+  - Use a uniform light source to test diffusion properties, observing the evenness of light spread.
+  - Test translucency by projecting images at varying brightness levels and assessing visual clarity.
+- **Importance**:
+  - Uniform light diffusion and appropriate transparency are key for dual-direction projection.
+
+---
+
+#### **4.2.6 Surface Texture**
+- **Objective**:
+  - Evaluate fabric smoothness or roughness and its effect on projection clarity and sharpness.
+- **Evaluation Process**:
+  - Perform close-up inspections of the fabric surface under projection to detect artifacts or irregularities.
+  - Compare how textured versus smooth fabrics handle high-definition projections.
+- **Importance**:
+  - Surface texture directly impacts the sharpness and quality of projected imagery.
+
+#### **4.2.7 Environmental Stress**
+- **Objective**:
+  - Simulate real-world conditions, including airflow and audience interaction, to evaluate stability and performance.
+- **Evaluation Process**:
+  - Introduce variables like temperature changes, airflow, and mechanical displacement to test fabric resilience.
+  - Observe any visual or structural degradation under stress conditions.
+- **Importance**:
+  - Resilience under environmental stress ensures long-term viability and adaptability to various venues.
+  
 ### 4.3 Research Questions
 
 The following research questions guide the testing process:
@@ -359,45 +422,6 @@ The following procedures will be used to evaluate the selected fabrics:
 #### 4.4.6 Environmental Stress Testing
 - Simulate audience interaction, airflow, and environmental factors to evaluate how these conditions impact fabric stability and projection quality.
 
----
-
-This stops at the beginning of the **Selected Fabrics** section (4.5). Let me know if this structure works, or if there are additional details you'd like incorporated before moving forward!
-
-
-
-
----
-
-## 4. Fabric Testing Process
-
-The testing phase for the *SeaChange* installation focuses on identifying the most effective combination of projection fabrics, structural systems, and audio-visual components. These tests are essential to ensure seamless visuals, reliable tensioning methods, and immersive soundscapes that align with the project’s goals. All experiments will replicate the final installation environment, including a circular configuration with blackout conditions, to evaluate real-world performance.
-
-Key testing requirements include:
-- **Projection Quality**: Evaluate fabrics for brightness, contrast, and clarity under front and rear projection.
-- **Tensioning Methods**: Test track systems, pipe frameworks, and truss designs for their ability to maintain fabric tautness with minimal distortion.
-- **Audience Interaction**: Ensure systems allow for unrestricted movement within and outside the screen without compromising the projection surface.
-- **Soundscapes**: Align the surround sound system with visual elements, ensuring spatial and auditory immersion.
-- **Adaptability**: Confirm that the selected systems are modular, portable, and capable of being installed in diverse venues, including Montclair UU Church.
-
-Through intial testing at City Tech, the project aims to finalize a design that delivers an effective and engaging immersive experience.
-
-### 4.1 Testing Goals
-1. Evaluate projection performance: Assess brightness, contrast, and clarity for both front and rear projection.
-2. Analyze elasticity: Measure fabric response to tensioning to minimize wrinkling or sagging.
-3. Explore bottom connections: Test weighted edges, rigid frames, and free-hanging configurations.
-4. Simulate final installation: Test in a circular arrangement to replicate the 15–20 foot diameter structure.
-
-### 4.2 Fabric Properties to Evaluate
-
-| **Property**       | **Description**                              | **Importance**                 |
-|---------------------|----------------------------------------------|---------------------------------|
-| Elasticity          | Ability to stretch and return to shape.     | Low elasticity minimizes wrinkles. |
-| Surface Texture     | Smoothness or roughness of the fabric.       | Affects projection clarity.     |
-| Light Diffusion     | Ability to distribute light evenly.          | Ensures seamless visuals.       |
-| Transparency        | Translucency for rear projection.            | Key for dual-direction projection. |
-| Durability          | Resistance to tearing or deformation.        | Crucial for long-term use.      |
-
----
 
 ### 4.3.  Fabric Table
 
@@ -433,8 +457,6 @@ This section provides detailed descriptions of all selected fabrics, focusing on
 - **Amount in Inventory**: 4 yards
 - **Notes**: Glowup is washable, lightweight, and durable, making it a top choice for large-scale installations requiring seamless visuals.
 - [**Glowup - Rose Brand**](https://www.rosebrand.com/product4386/GlowUp-IFR.aspx)
-
-
 
 
 #### **2. SoftScreen, IFR White**
@@ -562,6 +584,126 @@ This section provides detailed descriptions of all selected fabrics, focusing on
 
 ---
 
+## 5. Projection Testing
+
+### 5.1 Narrative: Projection System Requirements
+
+Projection is the cornerstone of the *SeaChange* installation, requiring seamless visuals to achieve the immersive, 360-degree experience. The testing process will evaluate projector performance, alignment, edge blending, and compatibility with selected fabrics. While some projectors are available for initial testing, additional equipment may need to be procured or rented to meet the project's specific requirements.
+
+Testing will focus on key metrics such as brightness (measured in lumens) and contrast ratio, which are critical to ensuring high-quality visuals. Projector specifications will provide baseline values for these metrics, but in-context testing is essential to understand how these specifications translate into real-world performance on selected fabrics.
+
+---
+
+### 5.2 Key Testing Objectives
+
+1. **Brightness (Lumens)**:
+   - Verify projectors deliver sufficient brightness for clear and vibrant visuals in both front and rear projection setups.
+   - Compare projector specifications to real-world performance on various fabrics under blackout conditions.
+
+2. **Contrast Ratio**:
+   - Evaluate contrast levels to ensure deep blacks and vibrant whites, essential for high-quality visuals in immersive environments.
+   - Test contrast performance on projection fabrics to identify any loss of detail or clarity.
+
+3. **Resolution**:
+   - Ensure projectors support high-resolution content (4K or higher) for sharp and detailed imagery across the entire surface.
+
+4. **Edge Blending**:
+   - Assess the ability of multiple projectors to overlap and blend seamlessly, avoiding visible seams or distortions.
+
+5. **Throw Distance and Lens Options**:
+   - Test suitability of projectors for room dimensions at both **City Tech** and **UUCM**.
+   - Evaluate lens options (short-throw, standard, or zoom) for optimal image placement and quality.
+
+6. **Color Reproduction**:
+   - Validate color accuracy to ensure fidelity to the artistic vision of *SeaChange*.
+
+7. **Compatibility with Projection Fabrics**:
+   - Test light diffusion, translucency, and overall image consistency on selected fabrics.
+
+8. **Portability and Installation Flexibility**:
+   - Assess ease of transport, setup, and mounting for projectors in different venues.
+
+---
+
+### 5.3 Research Questions
+
+1. How do projector brightness (lumens) and contrast ratio affect visual clarity in a blackout environment?
+2. Which projectors handle edge blending and overlap most effectively for seamless visuals?
+3. What lens configurations are optimal for the room dimensions and installation constraints at **City Tech** and **UUCM**?
+4. How do projector settings and capabilities interact with different projection fabrics to affect image quality?
+5. What limitations exist in the current projector inventory, and what additional equipment is required to meet project goals?
+
+---
+
+### 5.4 Testing Process
+
+#### 5.4.1 Setup and Calibration
+- **Initial Setup**:
+  - Arrange projectors for both front and rear projection setups.
+  - Use test patterns to align images and assess initial performance.
+- **Calibration**:
+  - Adjust brightness, contrast, and color settings to optimize visual quality.
+  - Test lens configurations (e.g., zoom or short-throw lenses) to adapt to room dimensions.
+
+#### 5.4.2 Brightness and Contrast Testing
+- **Brightness Testing**:
+  - Compare projector brightness (lumens) as specified in technical documents with real-world performance on selected fabrics.
+  - Measure brightness consistency across projection surfaces using a lux meter.
+- **Contrast Testing**:
+  - Use high-contrast test patterns to evaluate performance in differentiating subtle light and dark details.
+  - Test contrast behavior on different fabrics, focusing on blackout conditions to avoid washed-out visuals.
+
+#### 5.4.3 Edge Blending and Alignment
+- **Multi-Projector Setup**:
+  - Overlap projection zones and use edge-blending software to eliminate visible seams.
+  - Test both manual and automatic alignment tools to ensure smooth integration.
+- **Testing Metrics**:
+  - Evaluate visual continuity, checking for artifacts such as halos, double images, or uneven brightness.
+
+#### 5.4.4 Fabric Interaction
+- **Front and Rear Projection**:
+  - Test brightness, clarity, and diffusion on selected fabrics.
+  - Compare results to identify materials that enhance dual-projection quality.
+- **Light Leakage**:
+  - Measure how light passes through or reflects off fabrics, particularly in rear projection scenarios.
+
+#### 5.4.5 Blackout Environment Simulation
+- **Controlled Testing**:
+  - Conduct tests in a fully darkened space to replicate the exhibition environment.
+  - Observe how ambient light, if present, impacts image quality.
+
+#### 5.4.6 Advanced Features
+- **Motion and Dynamic Content**:
+  - Test projectors with animated or fast-moving visuals to ensure smooth performance.
+- **Edge Correction**:
+  - Assess projectors’ ability to correct for image distortion caused by curved or irregular projection surfaces.
+
+---
+
+### 5.5 Documentation and Analysis
+
+1. **Quantitative Metrics**:
+   - Brightness (lumens) as tested against projector specifications.
+   - Contrast ratio as tested with standard patterns.
+2. **Qualitative Observations**:
+   - Edge blending quality and visual consistency across projection surfaces.
+   - Color fidelity and sharpness in static and dynamic content.
+3. **Comparative Analysis**:
+   - Compare performance of different projectors against the evaluation criteria.
+   - Identify gaps in current projector inventory and recommend additional equipment if needed.
+
+---
+
+### 5.6 Outcomes and Recommendations
+
+The testing phase will result in:
+1. A shortlist of projectors that meet the technical and artistic requirements of the installation.
+2. Recommendations for additional equipment to supplement the existing inventory.
+3. Insights into projector compatibility with selected fabrics, informing final material and equipment decisions.
+4. Calibration settings and best practices for seamless installation at both **City Tech** and **UUCM**.
+
+---
+
 ## 6. Structural Systems
 
 ### 6.1 Narrative: Structural System Needs and Requirements
@@ -625,7 +767,6 @@ The structural system for the *SeaChange* installation serves as the armature fo
 3. How well do different attachment methods (e.g., clamps, keder rails) integrate with the chosen fabrics?
 4. Can the structural system allow for experimental designs while maintaining immersive quality?
 5. How effectively can the system secure to the ceiling while permitting flexibility in height and angle adjustments?
-
 
 
 ### 6.4 Track Systems
@@ -722,4 +863,111 @@ The structural system for the *SeaChange* installation serves as the armature fo
 - Ensure smooth audience interaction and optimal performance under real-world conditions.
 
 ---
+
+## 8. Documentation and Reporting Plan
+
+### 8.1 Purpose of Documentation
+
+The documentation phase will capture and consolidate findings from all testing areas—fabrics, projection, structural systems, and audio—to inform the final design of the *SeaChange* installation. It will also establish a comprehensive record of methodologies, challenges, and solutions for future projects.
+
+---
+
+### 8.2 Documentation Objectives
+
+1. **Capture Quantitative Data**:
+   - Record measurable metrics such as fabric elasticity, projector lumens, contrast ratios, and audio frequency distribution.
+   - Use standardized forms and tools for consistency in data collection.
+
+2. **Log Qualitative Observations**:
+   - Document subjective assessments of visual quality, audio clarity, and overall system integration.
+   - Include notes on environmental factors such as lighting conditions, airflow, and audience interaction.
+
+3. **Ensure Cross-Component Integration**:
+   - Link findings from different testing areas to highlight interdependencies (e.g., how fabric properties affect projection performance).
+   - Provide actionable insights for integrating all components into a cohesive system.
+
+4. **Facilitate Decision-Making**:
+   - Present findings in a clear and accessible format to support final material and equipment selection.
+   - Offer recommendations and contingency plans for installation and exhibition phases.
+
+---
+
+### 8.3 Documentation Strategy
+
+#### 8.3.1 Comprehensive Testing Records
+- **Testing Logs**:
+  - Maintain detailed logs for each testing session, including setup configurations, conditions, and results.
+  - Use structured templates to standardize data entry across testing areas.
+- **Visual Records**:
+  - Capture high-resolution photos and videos of key testing setups and results.
+  - Annotate visuals to highlight specific findings or areas of interest.
+
+#### 8.3.2 Data Analysis and Reporting
+- **Data Consolidation**:
+  - Aggregate quantitative and qualitative findings into summary tables and graphs for easy comparison.
+  - Highlight correlations between components, such as how different fabrics interact with projector brightness or edge blending.
+- **Report Generation**:
+  - Create detailed reports for each testing area (fabrics, projection, structural systems, audio).
+  - Include executive summaries to distill findings for stakeholders.
+
+#### 8.3.3 Repository for Documentation
+
+- **Centralized Storage**:
+  - All documentation, including testing logs, visual records, and analysis reports, will be stored in the project's designated GitHub repository.
+  - The repository will act as the single source of truth for all materials related to the *SeaChange* project.
+
+- **Version Control**:
+  - Use GitHub's version control features to track changes and ensure the integrity of documentation.
+  - Enable collaborative editing with proper branching and pull request protocols.
+
+- **Organization and Accessibility**:
+  - Clearly organize the repository with dedicated folders for each testing area (e.g., Fabrics, Projection, Audio, Structural Systems).
+  - Include README files in each folder to provide context and quick navigation.
+
+- **Reusable Resources**:
+  - Upload templates for testing protocols, data collection forms, and reporting to the repository.
+  - Store scripts, diagrams, or other technical resources for future reference.
+
+### 8.4 Expected Deliverables
+
+#### 8.4.1 Testing Reports
+1. **Fabric Testing Report**:
+   - Detailed evaluation of each fabric's performance, including quantitative metrics and qualitative assessments.
+2. **Projection Testing Report**:
+   - Summary of projector capabilities, including brightness, contrast, and edge blending results.
+3. **Structural Systems Report**:
+   - Analysis of armature performance, including tensioning capabilities and mounting stability.
+4. **Audio Testing Report**:
+   - Assessment of audio clarity, spatial distribution, and synchronization with visual elements.
+
+#### 8.4.2 Consolidated Findings
+- **Integration Summary**:
+  - Overview of how individual components interact and integrate into the larger system.
+- **Recommendations**:
+  - Final recommendations for materials, equipment, and configurations based on testing outcomes.
+
+### 8.5 Timeline for Documentation
+
+1. **During Testing (January 2025)**:
+   - Record data and observations immediately following each testing session.
+   - Use preliminary findings to refine testing setups as needed.
+
+2. **Post-Testing (February 2025)**:
+   - Consolidate all data into structured reports.
+   - Generate summary tables, visuals, and recommendations for final decision-making.
+
+3. **Pre-Installation (March 2025)**:
+   - Share finalized documentation with stakeholders, including the artistic and technical teams, for review.
+   - Incorporate feedback into the final design and installation plan.
+
+### 8.6 Next Steps
+
+1. **Align Documentation with Final Design**:
+   - Use findings to finalize materials, projection systems, and structural configurations for installation.
+2. **Share Results with Stakeholders**:
+   - Present documentation to artistic and venue teams to ensure alignment with project goals.
+3. **Develop Feedback Loop**:
+   - Incorporate team and stakeholder input into the final phase of planning and preparation.
+
+
 
