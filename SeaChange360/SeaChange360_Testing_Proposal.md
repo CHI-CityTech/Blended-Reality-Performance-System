@@ -279,7 +279,71 @@ This section provides detailed descriptions of all selected fabrics, focusing on
 
 ## 6. Structural Systems
 
-### 6.1 Track Systems
+### 6.1 Narrative: Structural System Needs and Requirements
+
+The structural system for the *SeaChange* installation serves as the armature for achieving the immersive and seamless experience envisioned for the project. It must securely support the projection fabric, provide appropriate tensioning to maintain a smooth surface, ensure that projected images are not distorted, and enable modularity to adapt to different venues. Given the installation's unique design, the framework must also accommodate the specific needs of a cylindrical or similarly immersive configuration. However, a more generalized solution would allow for alternate shapes based on specific needs and aesthetics.
+
+### 6.2 Structural Needs
+
+#### 6.2.1 Basic Structural Needs
+
+1. **Tensioning Capability**:
+   - The system must ensure the projection fabric remains taut to minimize wrinkles, sagging, or distortions that could compromise image quality.
+   - The system should mitigate unwanted movement, such as billowing, caused by airflow or other external factors. Since people will be ducking under the projection fabric, some billowing is unavoidable, but the solution should minimize this. 
+
+2. **Shape and Configuration**:
+   - While a circular configuration is the baseline assumption, alternative shapes (e.g., ovoid, wave-like, or evocative of ocean forms) could offer artistic opportunities. 
+   - The flexibility to explore and adjust the structure’s shape may enhance its expressive potential while maintaining visual and functional integrity.
+   - Distortions caused by irregular shapes must be evaluated in conjunction with projected imagery to ensure immersive continuity.
+
+3. **Modularity and Portability**:
+   - The system should be lightweight for ease of transportation and installation, while maintaining structural stability.
+   - Modular components are preferred to enable flexible configurations and adaptability across different venues.
+
+4. **Audience Accessibility**:
+   - The design must allow participants to freely enter and exit the interior of the installation by ducking under the suspended fabric.
+   - Structural elements should not obstruct audience movement or interfere with the immersive experience.
+
+5. **Durability and Safety**:
+   - The framework must comply with safety standards, including stable anchoring points and fire-code-compliant materials.
+   - It must reliably support the projection fabric and associated equipment (e.g., projectors, speakers) over the course of multiple showings.
+
+#### 6.2.2 Connective Structural Needs: Integration with the Fabric
+
+1. **Fabric Attachment**:
+   - The method of attaching the projection fabric to the structure must be straightforward, secure, and allow for uniform tensioning.
+   - Some existing systems may already have provisions for attachements, while others may expect the user to determine how this is done.
+   - Systems such as keder rails, clamps, or pre-sewn loops may be evaluated for effectiveness and ease of use.
+
+2. **Tensioning Mechanism**:
+   - The system must include a means of fine-tuning the fabric’s tension to prevent wrinkles and ensure a smooth surface.
+   - Options include adjustable fasteners, tension cables, or integrated tensioning mechanisms.
+   - Gravity will be a friend, but 
+
+3. **Ceiling Connection**:
+   - The structure must provide secure attachment points to the ceiling or other overhead supports. 
+   - Adjustable hanging solutions (e.g., chains, turnbuckles, or pulley systems) should allow for height and angle adjustments to align the projection surface precisely.
+
+4. **Flexibility in Configuration**:
+   - Flexibility in how the fabric is integrated with the structure is essential to accommodate experimental designs, including irregular shapes or surfaces evocative of ocean waves.
+   - Testing will determine whether these configurations enhance or detract from the immersive quality of the projections.
+
+#### 6.2.2 Portability and Load Considerations
+
+- The structural system must strike a balance between portability and load-bearing capacity. A lighter system is preferable, provided it meets tensioning, stability, and safety requirements.
+- Modular and collapsible components should be prioritized to facilitate transport and storage.
+
+### 6.3 Research Questions
+
+1. How do alternative shapes (e.g., ovoid or wave-like) affect projected imagery?
+2. What tensioning methods minimize fabric distortion and billowing?
+3. How well do different attachment methods (e.g., clamps, keder rails) integrate with the chosen fabrics?
+4. Can the structural system allow for experimental designs while maintaining immersive quality?
+5. How effectively can the system secure to the ceiling while permitting flexibility in height and angle adjustments?
+
+
+
+### 6.4 Track Systems
 
 #### 6.1.1 Flexible Curtain Tracks
 - **Description**: Flexible tracks allow for easy installation in circular or elliptical configurations, making them ideal for lightweight fabrics.
