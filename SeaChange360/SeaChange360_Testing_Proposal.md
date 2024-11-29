@@ -1,7 +1,8 @@
 # Proposal: Development and Testing for the *SeaChange 360* Immersive Installation
-Dr. David B Smith
-NYC college of Technology
-City University of New York
+Dr. David B Smith  
+NYC college of Technology  
+City University of New York  
+2024-11-29  
 
 ## Table of Contents
 1. [Project Description](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#1-project-description)  
