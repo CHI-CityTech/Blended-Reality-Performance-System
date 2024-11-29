@@ -119,16 +119,17 @@ The testing phase aims to:
 - Test fabric durability through repeated handling, environmental exposure, and mechanical stress simulations.
 - Explore light diffusion, translucency, and how materials respond in blackout conditions.
 
-##### 1.5.2.2 Armature Testing
-- Evaluate the structural stability of different systems, including tensioning mechanisms and modular components.
-- Test adaptability to various configurations, such as circular, ovoid, or wave-like designs.
-- Assess compatibility with selected fabrics, focusing on tensioning integration and minimizing visual artifacts.
-  
-##### 1.5.2.3 Projection Testing
+##### 1.5.2.2 [Projection Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#5-projection-testing)
 - Evaluate projection clarity, brightness, and contrast for both front and rear projection.
 - Assess edge blending and overlap to eliminate visible seams or distortions in the circular configuration.
 - Test projector alignment and calibration to ensure uniform image quality across the entire surface.
 - Simulate projection performance in blackout conditions to replicate the immersive environment.
+
+##### 1.5.2.3 [Armature Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#6-structural-systems)
+- Evaluate the structural stability of different systems, including tensioning mechanisms and modular components.
+- Test adaptability to various configurations, such as circular, ovoid, or wave-like designs.
+- Assess compatibility with selected fabrics, focusing on tensioning integration and minimizing visual artifacts.
+  
 
 ##### 1.5.2.4 Audio Testing
 - Test surround sound systems to ensure dynamic alignment with projected visuals.
@@ -153,16 +154,22 @@ Comprehensive documentation will accompany all testing activities, including:
 - Qualitative observations (e.g., ease of setup, audience immersion, and visual aesthetic).
 - Comparative analysis of materials and systems to guide final recommendations.
 
+---
+
 ## 2 Timeline
 
 Testing will be conducted at **City Tech, CUNY Brooklyn**, during Weeks 2–4 of January 2025, using the sound stage and pre-installed infrastructure. The process will include:
 
 ### 2.1 December 2024: Preparation
+- **Research**:
+  - Identify existing systems and subsystems.
+  - Investigate other artistic or other exhibitions that relied on similar installation technologies.
 - **Material Selection**:
   - Review inventory of projection fabrics and procure additional samples for testing.
   - Acquire track and pipe systems for structural evaluation.
 - **Collaborative Planning**:
   - Meet with Rev. Scott Sammler-Michael to finalize logistics for the installation site at Montclair UU Church.
+  - Solicit student researchers for January testing.
 - **Procurement**:
   - Order tensioning hardware, connectors, and necessary materials.
 
