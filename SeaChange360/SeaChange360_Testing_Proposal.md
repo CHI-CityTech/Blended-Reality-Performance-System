@@ -7,7 +7,7 @@ City University of New York
 
 ### 1.1 Overview
 
-*SeaChange* is a 360-degree multimedia installation designed to transport audiences into a fully immersive environment that merges visual storytelling with rich soundscapes. Drawing inspiration from the ocean's beauty, power, and mystery, the project explores the intricate relationship between humanity and the natural world. Featuring local NYC surfers, the piece dives into the ocean and human connection, traversing the evolutionary origin of life on our planet. 
+*SeaChange 360* is an immersive multimedia installation designed to transport audiences into a fully immersive environment that merges visual storytelling with rich soundscapes. Drawing inspiration from the ocean's beauty, power, and mystery, the project explores the intricate relationship between humanity and the natural world. Featuring local NYC surfers, the piece dives into the ocean and human connection, traversing the evolutionary origin of life on our planet. 
 
 The viewer becomes a participant as *SeaChange* surrounds them, occupying their entire visual and audio field. The immersive experience runs for approximately 20 minutes and will be a part of a 90-minute evening event. It is the creation of painter/multimedia artists [**Debrah Pearson Feinn**](https://www.instagram.com/debrah_feinn/) and [**Jerry Fried**](https://www.facebook.com/jerryfriedhome/), supported by a team of craftspeople and surfers who advocate for a restored and healthy ocean. A preview of the installation, including 360-degree perspectives, can be accessed online.
 
