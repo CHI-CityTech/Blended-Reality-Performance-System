@@ -986,6 +986,11 @@ The documentation phase will capture and consolidate findings from all testing a
    - Present documentation to artistic and venue teams to ensure alignment with project goals.
 3. **Develop Feedback Loop**:
    - Incorporate team and stakeholder input into the final phase of planning and preparation.
+  
+
+## 9. Citations and Sources
+
+The bulk of this proposal was created in collaboration with ChatGPT 4o.  The process involves successive iterations after a 
 
 
 
