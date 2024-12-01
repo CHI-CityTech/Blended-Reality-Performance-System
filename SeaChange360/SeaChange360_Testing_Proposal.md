@@ -14,6 +14,14 @@ City University of New York
 7. [Audio Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/edit/main/SeaChange360/SeaChange360_Testing_Proposal.md#7-audio-testing)
 8. [Documentation and Outcomes](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#8-documentation-and-reporting-plan)
 
+
+## Abstract
+
+*SeaChange 360* is an immersive multimedia installation that explores humanity's connection to the ocean through evocative visuals and soundscapes. Created by Debrah Pearson Feinn and Jerry Fried, the project emphasizes environmental awareness and reflection, blending artistic vision with technical precision.
+
+This proposal details the testing and development of projection fabrics, structural systems, and audio configurations to realize the creators’ vision. Conducted at City Tech, CUNY Brooklyn, these evaluations will ensure the seamless integration of artistic and technical elements ahead of the installation’s premiere at the Unitarian Universalist Congregation at Montclair in Spring 2025.
+
+
 ## 1. Project Description
 
 ### 1.1 Overview
@@ -621,8 +629,6 @@ Testing will focus on key metrics such as brightness (measured in lumens) and co
 8. **Portability and Installation Flexibility**:
    - Assess ease of transport, setup, and mounting for projectors in different venues.
 
----
-
 ### 5.3 Research Questions
 
 1. How do projector brightness (lumens) and contrast ratio affect visual clarity in a blackout environment?
@@ -630,9 +636,7 @@ Testing will focus on key metrics such as brightness (measured in lumens) and co
 3. What lens configurations are optimal for the room dimensions and installation constraints at **City Tech** and **UUCM**?
 4. How do projector settings and capabilities interact with different projection fabrics to affect image quality?
 5. What limitations exist in the current projector inventory, and what additional equipment is required to meet project goals?
-
----
-
+  
 ### 5.4 Testing Process
 
 #### 5.4.1 Setup and Calibration
@@ -676,8 +680,6 @@ Testing will focus on key metrics such as brightness (measured in lumens) and co
 - **Edge Correction**:
   - Assess projectors’ ability to correct for image distortion caused by curved or irregular projection surfaces.
 
----
-
 ### 5.5 Documentation and Analysis
 
 1. **Quantitative Metrics**:
@@ -690,7 +692,6 @@ Testing will focus on key metrics such as brightness (measured in lumens) and co
    - Compare performance of different projectors against the evaluation criteria.
    - Identify gaps in current projector inventory and recommend additional equipment if needed.
 
----
 
 ### 5.6 Outcomes and Recommendations
 
@@ -934,38 +935,13 @@ The iterative testing process will also examine how the chosen speaker configura
 - Provide actionable insights on the optimal audio system and setup for *SeaChange*.
 - Identify areas for further refinement in the final installation phase.
 
-
-## 7. Expected Outcomes
-
-### 7.1 Optimized Material Selection
-- Identification of low-elasticity fabrics that meet the dual-projection and tensioning requirements.
-- Comprehensive understanding of fabric properties, including transparency, surface texture, and light diffusion.
-
-### 7.2 Finalized Structural Design
-- Development of a robust and modular system to support the projection fabric and audio/visual equipment.
-- Selection of an installation approach (track, pipe, or truss) based on performance and ease of use.
-
-### 7.3 Seamless Projection and Immersion
-- Achieve a wrinkle-free, visually seamless projection surface.
-- Ensure dynamic alignment of visuals and soundscapes to enhance audience immersion.
-
-### 7.4 Comprehensive Documentation
-- Provide a detailed report of testing results, recommendations for fabric and structural systems, and final installation guidelines.
-- Include a visual guide for future installations, highlighting lessons learned during testing and development.
-
-### 7.5 Successful Installation at Montclair UU Church
-- Deliver a fully functional and immersive *SeaChange* installation at the Montclair UU Church.
-- Ensure smooth audience interaction and optimal performance under real-world conditions.
-
 ---
 
 ## 8. Documentation and Reporting Plan
 
 ### 8.1 Purpose of Documentation
 
-The documentation phase will capture and consolidate findings from all testing areas—fabrics, projection, structural systems, and audio—to inform the final design of the *SeaChange* installation. It will also establish a comprehensive record of methodologies, challenges, and solutions for future projects.
-
----
+The documentation phase will capture and consolidate findings from all testing areas—fabrics, projection, structural systems, and audio—to inform the final design of the *SeaChange* installation. It will also establish a comprehensive record of methodologies, challenges, and solutions for future projects.  Further, results from these experiments will contribute to teh development of a more generalized Blended Reality Performance System.
 
 ### 8.2 Documentation Objectives
 
@@ -1007,6 +983,7 @@ The documentation phase will capture and consolidate findings from all testing a
 
 #### 8.3.3 Repository for Documentation
 
+The repository must meet the following requirements:  
 - **Centralized Storage**:
   - All documentation, including testing logs, visual records, and analysis reports, will be stored in the project's designated GitHub repository.
   - The repository will act as the single source of truth for all materials related to the *SeaChange* project.
@@ -1064,10 +1041,9 @@ The documentation phase will capture and consolidate findings from all testing a
 3. **Develop Feedback Loop**:
    - Incorporate team and stakeholder input into the final phase of planning and preparation.
   
-
 ## 9. Citations and Sources
 
-The bulk of this proposal was created in collaboration with ChatGPT 4o.  The process involves successive iterations after a 
+This proposal was created after discussions with Jerry Reid, and consideration of how it aligns with other current efforts. This was followed by a speculation and then collaboration with ChatGPT 4o.  The proposal, from rough beginnings, was refined and then formatted onto Markdown for for inclusion within this repository.   "Immersive Installation Research Proposal" discussion, _ChatGPT_, GPT-4o, OpenAI, 1 Dec. 2024, [https://chatgpt.com/share/67489fad-0f28-800f-a3a4-a6b487e778e7](https://chatgpt.com/share/67489fad-0f28-800f-a3a4-a6b487e778e7)
 
 
 
