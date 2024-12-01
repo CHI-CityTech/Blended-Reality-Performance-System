@@ -38,60 +38,56 @@ Upon entering the installation, participants encounter a circular projection scr
 
 The *SeaChange* installation aims to create an engaging and immersive multimedia experience by integrating seamless visuals, dynamic soundscapes, and interactive audience participation. These goals are divided into aesthetic and technical objectives to balance artistic vision with practical implementation.
 
-#### 1.3.1 Artistic Goals
+#### 1.3.1 Artistic Vision
 
-The artistic goals of this project center on realizing the creative vision of Debrah Pearson Feinn and Jerry Fried. The technical systems will be designed to seamlessly enable the immersive environment as envisioned by the creators, thus ensuring the mechanics remain invisible to the audience. When executed faithfully, the installation aims to envelop the audience in an evocative and transformative experience that highlights humanity’s profound connection to the ocean, as seen through the perspective of the surfing community featured in the film. This vision emphasizes the ocean’s beauty, power, and mystery, while also underscoring its vulnerability to human impact. By fostering environmental awareness and reflection, SeaChange seeks to inspire action and empathy. To achieve this, the technical design must fully support the thematic intent, creating a cohesive, sensory-rich environment that stays true to the creators’ aspirations.
+The aeesthetic goals of this project are grounded in the creative vision of Debrah Pearson Feinn and Jerry Fried, and which draws inspiration from the ocean’s beauty, power, and fragility. This subsection suggests artistic vision to guide the project’s development, prioritizing desired experiential and thematic elements to be supported by technical implementation.
 
-1. **Creative Intent**:
-   - Ensure the technical implementation faithfully conveys the creators’ themes of the ocean’s power, beauty, and humanity’s connection to it.
-   - Provide flexibility to accommodate experimental configurations or adjustments requested by the artistic team.
+##### Creative Intent
+- Reflect the creators' artistic themes by fostering a visually and aurally engaging environment.
+- Ensure the design provides opportunities for audience interpretation and emotional connection.
+- Allow flexibility to accommodate experimental configurations or artistic adjustments during the design process.
+- Consider environmental audio and lighting within larger environment, and between iterations of the video.
 
-2. **Seamless Technical Integration**:
-   - Develop systems that remain invisible to the audience, ensuring the focus stays on the narrative and sensory elements.
-   - Avoid technical distractions, such as visible seams, distortions, or uneven soundscapes, that could detract from the immersive experience.
+##### Faithful Immersion
+- Design an environment that allows the audience to feel fully immersed in the visuals and soundscapes.
+- Blur the boundaries between audience, environment, and narrative to enhance the transformative nature of the experience.
+- Enable seamless transitions between visual and auditory elements to ensure a cohesive sensory impact.
 
-3. **Faithful Immersion**:
-   - Enhance the audience’s sense of immersion by enabling dynamic interaction with the visuals and soundscapes.
-   - Blur the lines between audience, environment, and narrative, fostering reflection and emotional connection.
-
-4. **Adaptable for Future Projects**:
-   - Create modular, scalable systems that not only support *SeaChange* but also serve as a reusable platform for future artistic endeavors.
-
----
+##### Adaptable for Future Projects
+- Consider versatility: system that can evolve for future creative endeavors, supporting new narratives and artistic approaches may be valuable.
+- Emphasize scalability and adaptability, ensuring the system remains valuable for artistic and technical explorations beyond *SeaChange*.
 
 #### 1.3.2 Technical Goals
 
-To realize the artistic vision of *SeaChange*, the technical implementation must meet the following objectives:
+The technical goals of the *SeaChange* installation focus on ensuring the project’s artistic vision is supported through robust systems, seamless integration, and precision in execution. This subsection outlines the critical technical objectives that guide development.
 
-1. **Seamless Visuals**:
-   - Achieve uninterrupted projection with no visible seams or distortions.
-   - Ensure projection clarity, brightness, and resolution for both front and rear views.
+##### 1.3.2.1 Projection
+- Achieve uninterrupted projection with no visible seams or distortions across the projection surface.
+- Ensure clarity, brightness, and high resolution for both front and rear projection.
+- Maintain consistent visual quality in various environmental conditions, including blackout settings.
 
-2. **Advanced Audio Enhancement**:
-   - Implement a sophisticated surround sound system, such as Dolby Atmos or DTS:X, to create a spatially immersive experience.
-   - Separate audio stems (e.g., music, ambient sound, narrative dialogue) to enable dynamic distribution across the space.
-   - Use subwoofers and low-frequency effects (LFE) to simulate the ocean’s depth and power, enhancing the emotional impact.
-   - Test directional speakers for localized soundscapes, guiding audience focus and reinforcing narrative elements.
+##### 1.3.2.2 Audio
+- Implement a spatial audio system capable of delivering immersive soundscapes aligned with visual elements.
+- Optimize audio clarity, ensuring dialogue, music, and ambient sounds are distinct and balanced.
+- Explore multi-channel audio formats (e.g., 5.1, 7.1, Dolby Atmos) for enhanced spatial immersion.
 
-3. **Audience Interaction**:
-   - Enable participants to move freely within and around the projection enclosure while maintaining full immersion.
-   - Design an intuitive layout that supports both interior and exterior viewing.
+##### 1.3.2.3 Audience Interaction
+- Enable participants to move freely within and around the installation without disrupting immersion.
+- Ensure layout supports intuitive audience navigation and interaction with the environment.
 
-4. **Modular Design**:
-   - Ensure the system is adaptable for installation in venues of varying sizes and spatial requirements.
-   - Use lightweight, portable components to simplify transportation and setup.
+##### 1.3.2.4 Modular and Portable Design
+- Create a system that is lightweight, easily transportable, and quickly installable across diverse venues.
+- Emphasize modularity to allow for adjustments in scale and configuration based on spatial constraints.
+- Integrate with other components of a larger, modular, [Blended Reality Performance System](https://sites.google.com/view/balancedblendedspace/home)
 
-5. **Safety and Accessibility**:
-   - Comply with fire code regulations, including clear and unobstructed egress routes.
-   - Incorporate subtle glow strips or guide lights to enhance navigation without detracting from the immersive blackout environment.
+##### 1.3.2.5 Safety and Compliance
+- Ensure the system adheres to fire codes, egress requirements, and other safety regulations.
+- Incorporate unobtrusive safety measures, such as glow strips or guide lights, that enhance the immersive experience.
 
-6. **Environmental Suitability**:
-   - Design for blackout conditions, minimizing light leaks and managing airflow to stabilize the projection fabric.
-   - Mitigate external factors such as audience movement or environmental noise to preserve the integrity of the installation.
+##### 1.3.2.6 Environmental Suitability
+- Design for blackout conditions, managing light leaks and airflow to stabilize projection surfaces.
+- Minimize disruptions caused by audience movement or external environmental factors, such as humidity or temperature fluctuations.
 
----
-
-This structure emphasizes the technical goals as the primary means of achieving and supporting the already established artistic vision while ensuring flexibility and scalability for future use. Let me know when you’re ready to scaffold out the detailed audio section!
 
 ### 1.5 Process
 
