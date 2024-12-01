@@ -14,14 +14,6 @@ City University of New York
 7. [Audio Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#7-audio-testing)
 8. [Documentation and Outcomes](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#8-documentation-and-reporting-plan)
 
-
-## Abstract
-
-*SeaChange 360* is an immersive multimedia installation that explores humanity's connection to the ocean through evocative visuals and soundscapes. Created by Debrah Pearson Feinn and Jerry Fried, the project emphasizes environmental awareness and reflection, blending artistic vision with technical precision.
-
-This proposal details the testing and development of projection fabrics, structural systems, and audio configurations to realize the creators’ vision. Conducted at City Tech, CUNY Brooklyn, these evaluations will ensure the seamless integration of artistic and technical elements ahead of the installation’s premiere at the Unitarian Universalist Congregation at Montclair in Spring 2025.
-
-
 ## 1. Project Description
 
 ### 1.1 Overview
