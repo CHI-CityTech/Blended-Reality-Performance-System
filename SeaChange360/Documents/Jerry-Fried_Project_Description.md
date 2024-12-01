@@ -23,6 +23,6 @@ The specific installation will include the following elements:
 * A pulley system to position the screen for each performance but allow it to be lifted several feet so that the room can be used for other activities.
 * Blackout curtains over each of the exterior windows so they can be opened before and after each screening.
 
-  ![Alt text](Documents/example.png)
+  ![Alt text](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/Documents/Sea%20Change_%20Fletcher%20Hall%20installation.png)
 
   
