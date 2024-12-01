@@ -592,13 +592,12 @@ This section provides detailed descriptions of all selected fabrics, focusing on
 
 ## 5. Projection Testing
 
-### 5.1 Narrative: Projection System Requirements
+### 5.1 Narrative
 
 Projection is the cornerstone of the *SeaChange* installation, requiring seamless visuals to achieve the immersive, 360-degree experience. The testing process will evaluate projector performance, alignment, edge blending, and compatibility with selected fabrics. While some projectors are available for initial testing, additional equipment may need to be procured or rented to meet the project's specific requirements.
 
 Testing will focus on key metrics such as brightness (measured in lumens) and contrast ratio, which are critical to ensuring high-quality visuals. Projector specifications will provide baseline values for these metrics, but in-context testing is essential to understand how these specifications translate into real-world performance on selected fabrics.
 
----
 
 ### 5.2 Key Testing Objectives
 
@@ -692,7 +691,6 @@ Testing will focus on key metrics such as brightness (measured in lumens) and co
    - Compare performance of different projectors against the evaluation criteria.
    - Identify gaps in current projector inventory and recommend additional equipment if needed.
 
-
 ### 5.6 Outcomes and Recommendations
 
 The testing phase will result in:
@@ -705,7 +703,7 @@ The testing phase will result in:
 
 ## 6. Structural Systems
 
-### 6.1 Narrative: Structural System Needs and Requirements
+### 6.1 Narrative
 
 The structural system for the *SeaChange* installation serves as the armature for achieving the immersive and seamless experience envisioned for the project. It must securely support the projection fabric, provide appropriate tensioning to maintain a smooth surface, ensure that projected images are not distorted, and enable modularity to adapt to different venues. Given the installation's unique design, the framework must also accommodate the specific needs of a cylindrical or similarly immersive configuration. However, a more generalized solution would allow for alternate shapes based on specific needs and aesthetics.
 
