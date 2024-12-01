@@ -22,3 +22,5 @@ The specific installation will include the following elements:
 * Gray projection screen fabric to increase contrast, permitting both bright whites and deep blacks.
 * A pulley system to position the screen for each performance but allow it to be lifted several feet so that the room can be used for other activities.
 * Blackout curtains over each of the exterior windows so they can be opened before and after each screening.
+
+  
