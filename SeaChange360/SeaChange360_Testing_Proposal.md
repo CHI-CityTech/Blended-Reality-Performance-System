@@ -11,7 +11,7 @@ City University of New York
 4. [Fabric Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#4-fabric-testing)
 5. [Projection Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#5-projection-testing)
 6. [Structure Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#6-structural-systems)
-7. [Audio Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/edit/main/SeaChange360/SeaChange360_Testing_Proposal.md#7-audio-testing)
+7. [Audio Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#7-audio-testing)
 8. [Documentation and Outcomes](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#8-documentation-and-reporting-plan)
 
 
