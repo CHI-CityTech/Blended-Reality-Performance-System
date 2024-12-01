@@ -7,5 +7,5 @@ This proposal details the testing and development of projection fabrics, structu
 This repository stores materials and research for teh development and installatiojn of this exhibition.
 
 Currently (2024-12-01) it consists of the following documents:
-- [Jerry Fried Original Project Description](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/Jerry-Fried_Project_Description.md)  
-- [David B. Smith Detailed Testing Proposal](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md)
+- [Jerry Fried Original Project Description](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/Documents/Jerry-Fried_Project_Description.md)
+- [David B. Smith Detailed Testing Proposal](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/Documents/SeaChange360_Testing_Proposal.md)
