@@ -9,3 +9,5 @@ This repository stores materials and research for teh development and installati
 Currently (2024-12-01) it consists of the following documents:
 - [Jerry Fried Original Project Description](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/Documents/Jerry-Fried_Project_Description.md)
 - [David B. Smith Detailed Testing Proposal](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/Documents/SeaChange360_Testing_Proposal.md)
+
+- [Photo of Hall](https://photos.app.goo.gl/hR5x7uoFUEXNrxjN7)
