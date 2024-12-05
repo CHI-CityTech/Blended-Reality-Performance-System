@@ -1,6 +1,6 @@
 ## _SeaChange 360_ README
 
-SeaChange 360 is an immersive multimedia installation that explores humanity's connection to the ocean through evocative visuals and soundscapes. Created by Debrah Pearson Feinn and Jerry Fried, the project emphasizes environmental awareness and reflection, blending artistic vision with technical precision.
+SeaChange 360 is an immersive multimedia installation that explores humanity's connection to the ocean through evocative visuals and soundscapes. Created by Debrah Pearson Feinn and Jerry Fried, the project emphasizes environmental awareness and reflection, blending artistic vision with technical immersion.
 
 This proposal details the testing and development of projection fabrics, structural systems, and audio configurations to realize the creators’ vision. Conducted at City Tech, CUNY Brooklyn, these evaluations will ensure the seamless integration of artistic and technical elements ahead of the installation’s premiere at the Unitarian Universalist Congregation at Montclair in Spring 2025.
 
