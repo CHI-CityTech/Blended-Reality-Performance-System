@@ -5,7 +5,7 @@ City University of New York
 2024-11-29  
 
 ## Table of Contents
-1. [Project Description](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#1-project-description)  
+1. [Project Description](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/Documents/SeaChange360_Testing_Proposal.md#1-project-description)  
 2. [Timeline](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#2-timeline)
 3. [Site Preparation and Venue Analysis](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#3-site-preparation-and-venue-analysis)
 4. [Fabric Testing](https://github.com/CHI-CityTech/Blended-Reality-Performance-System/blob/main/SeaChange360/SeaChange360_Testing_Proposal.md#4-fabric-testing)
