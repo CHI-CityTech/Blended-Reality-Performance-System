@@ -40,26 +40,26 @@ The *SeaChange* installation aims to create an engaging and immersive multimedia
 
 #### 1.3.1 Artistic Vision
 
-The aeesthetic goals of this project are grounded in the creative vision of Debrah Pearson Feinn and Jerry Fried, and which draws inspiration from the ocean’s beauty, power, and fragility. This subsection suggests artistic vision to guide the project’s development, prioritizing desired experiential and thematic elements to be supported by technical implementation.
+The aesthetic goals of this project come from Debrah Pearson Feinn and Jerry Fried, who draw inspiration from the ocean’s beauty, power, but fragility in the face of humanity's depredations in teh guise of increasing acidification. This subsection provides appropriate guidelines to support this vision.
 
 ##### Creative Intent
-- Reflect the creators' artistic themes by fostering a visually and aurally engaging environment.
+- Reflect the creators' artistic themes by creating a visually and aurally engaging environment.
 - Ensure the design provides opportunities for audience interpretation and emotional connection.
-- Allow flexibility to accommodate experimental configurations or artistic adjustments during the design process.
-- Consider environmental audio and lighting within larger environment, and between iterations of the video.
+- Design for enough flexibility to accommodate different configurations or artistic modifications during the design and installation process.
+- Consider environmental audio and lighting within the larger environment within which the video is shown, both in space and in the time between iterations of the video.
 
-##### Faithful Immersion
+##### Convincing Immersion
 - Design an environment that allows the audience to feel fully immersed in the visuals and soundscapes.
-- Blur the boundaries between audience, environment, and narrative to enhance the transformative nature of the experience.
+- Blur some boundaries between audience, environment, and narrative.
 - Enable seamless transitions between visual and auditory elements to ensure a cohesive sensory impact.
 
 ##### Adaptable for Future Projects
-- Consider versatility: system that can evolve for future creative endeavors, supporting new narratives and artistic approaches may be valuable.
-- Emphasize scalability and adaptability, ensuring the system remains valuable for artistic and technical explorations beyond *SeaChange*.
+- Consider versatility: develop a system that can be used for future projects, supporting new narratives and artistic approaches may be valuable.
+- Emphasize scalability and adaptability.
 
 #### 1.3.2 Technical Goals
 
-The technical goals of the *SeaChange* installation focus on ensuring the project’s artistic vision is supported through robust systems, seamless integration, and precision in execution. This subsection outlines the critical technical objectives that guide development.
+The technical goals of the *SeaChange360* installation focus on ensuring the project’s artistic vision is supported through robust systems, seamless integration, and precision in execution. This subsection outlines important technical objectives that guide development.
 
 ##### 1.3.2.1 Projection
 - Achieve uninterrupted projection with no visible seams or distortions across the projection surface.
