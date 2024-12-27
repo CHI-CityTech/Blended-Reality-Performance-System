@@ -62,18 +62,18 @@ The aesthetic goals of this project come from Debrah Pearson Feinn and Jerry Fri
 The technical goals of the *SeaChange360* installation focus on ensuring the project’s artistic vision is supported through robust systems, seamless integration, and precision in execution. This subsection outlines important technical objectives that guide development.
 
 ##### 1.3.2.1 Projection
-- Achieve uninterrupted projection with no visible seams or distortions across the projection surface.
-- Ensure clarity, brightness, and high resolution for both front and rear projection.
-- Maintain consistent visual quality in various environmental conditions, including blackout settings.
+- Achieve an immersive projection with no visible seams or distortions across the projection surface.
+- Ensure clarity, brightness, and high resolution for viewing from either front or rear orientations.
+- Maintain consistent visual quality in a variety of environmental conditions, including blackout settings.
 
 ##### 1.3.2.2 Audio
-- Implement a spatial audio system capable of delivering immersive soundscapes aligned with visual elements.
-- Optimize audio clarity, ensuring dialogue, music, and ambient sounds are distinct and balanced.
+- Implement a spatial audio system capable of delivering immersive soundscapes fully synchronized with visual elements.
+- Ensure that dialogue, music, and ambient sounds are distinct and balanced across teh frequency spectrum.
 - Explore multi-channel audio formats (e.g., 5.1, 7.1, Dolby Atmos) for enhanced spatial immersion.
 
 ##### 1.3.2.3 Audience Interaction
-- Enable participants to move freely within and around the installation without disrupting immersion.
-- Ensure layout supports intuitive audience navigation and interaction with the environment.
+- Allow participants to move freely within and around the installation without disrupting immersion.
+- Ensure layout engages the audience organically within the environment, allowing them to move freely within and outside of the display area.
 
 ##### 1.3.2.4 Modular and Portable Design
 - Create a system that is lightweight, easily transportable, and quickly installable across diverse venues.
@@ -87,7 +87,6 @@ The technical goals of the *SeaChange360* installation focus on ensuring the pro
 ##### 1.3.2.6 Environmental Suitability
 - Design for blackout conditions, managing light leaks and airflow to stabilize projection surfaces.
 - Minimize disruptions caused by audience movement or external environmental factors, such as humidity or temperature fluctuations.
-
 
 ### 1.5 Process
 
