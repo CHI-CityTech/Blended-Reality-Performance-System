@@ -148,7 +148,7 @@ Comprehensive documentation will accompany all testing activities, including:
 
 ## 2 Timeline
 
-Testing will be conducted at **City Tech, CUNY Brooklyn**, during Weeks 2–4 of January 2025, using the sound stage and pre-installed infrastructure. The process will include:
+Testing will be conducted at **City Tech, CUNY Brooklyn**, during Weeks 2–4 of January 2025, using the sound stage and some pre-installed infrastructure. The process will include:
 
 ### 2.1 December 2024: Preparation
 - **Research**:
@@ -186,10 +186,10 @@ Testing will be conducted at **City Tech, CUNY Brooklyn**, during Weeks 2–4 of
 
 ## 3. Site Preparation and Venue Analysis
 
-Successful implementation of the *SeaChange* installation requires careful analysis of the test site at **City Tech, CUNY Brooklyn** and the final installation venue at the **Unitarian Universalist Congregation at Montclair (UUCM)**. This section outlines the site-specific considerations, logistical requirements, and personnel roles necessary to ensure a seamless transition from testing to deployment.
+Successful implementation of *SeaChange360* requires analysis of the test site at **City Tech, CUNY Brooklyn** and the final installation venue at the **Unitarian Universalist Congregation at Montclair (UUCM)**. This section outlines the site-specific considerations, logistical requirements, and personnel roles necessary to ensure a seamless transition from testing to deployment.
 
 ### 3.1 Test Site: City Tech, CUNY Brooklyn
-The testing phase will be conducted in **Studio LG-038**, a sound stage equipped with infrastructure to support immersive audiovisual experiments. Key considerations for the test site include:
+The testing phase will be conducted in **Studio LG-038**, a sound stage equipped with appropriate infrastructure to support immersive audiovisual experiments. Key considerations for the test site include:
 
 #### 3.1.1 Space and Infrastructure
 - **Room Dimensions**:
@@ -205,7 +205,7 @@ The testing phase will be conducted in **Studio LG-038**, a sound stage equipped
 The following roles are essential for the testing phase:
 1. **Producer and Artistic Oversight**:
    - **Jerry Fried** will oversee the artistic vision of the project, ensuring the installation reflects the creative intent of the video project. 
-   - Collaborates with technical and design teams to maintain cohesion between the content and immersive environment.
+   - Collaborate with technical and design teams to maintain cohesion between the content and immersive environment.
 2. **Project Lead**:
    - **Dr. David B. Smith** will manage the overall testing process, ensuring alignment with project goals and technical requirements.
 3. **Fabric Testing Coordinator**:
