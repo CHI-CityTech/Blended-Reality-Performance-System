@@ -15,7 +15,7 @@ Currently (2024-12-01) it consists of the following documents:
 ### Directory Structure
 
 - SeaChange360/
-  - README.md
+  - README.md (This File)
   - Documentation/
     - Overview.md
     - Abstract.md
@@ -27,7 +27,7 @@ Currently (2024-12-01) it consists of the following documents:
       - Structural\_Testing\_Report.md
   - Testing/
     - Fabrics/
-      - Procedures.md
+      - Procedures/
       - Results/
         - Raw\_Data.csv
         - Processed\_Data.md
