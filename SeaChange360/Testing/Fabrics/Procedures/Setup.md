@@ -9,6 +9,8 @@ This document outlines the steps and materials required to set up the initial en
 - Configure the projector and cameras for simultaneous front and rear image capture.
 - Prepare all power, data, and HDMI cables required for seamless operation.
 - Verify functionality of equipment and workspace readiness.
+- Document distances and exact inventory used.
+- Spike tape the location of all hardware.
 
 ---
 
@@ -31,6 +33,7 @@ This document outlines the steps and materials required to set up the initial en
 - **Projection content**: Test patterns (brightness, contrast, color) and sample images
 
 ### Camera Equipment
+Note: Cameras used may be iPad or iPhone devices.  We will do some testing of this.
 - **Cameras** (2)
   - Resolution: [e.g., 1080p or 4K]
   - Capable of simultaneous recording
