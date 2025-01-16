@@ -8,6 +8,7 @@ The primary goal for the first day of testing (2025-01-16) is to assemble and co
 - Assemble the T-slot 6' x 6' frame for mounting fabric samples.
 - Secure the frame and verify its stability to prevent movement during testing.
 - Prepare a blackout environment to minimize ambient light interference.
+- Aquire appropriate test images. see document here for specifics. 
 
 ### 2. Equipment Configuration
 - Set up the projector and calibrate brightness, contrast, and focus.
