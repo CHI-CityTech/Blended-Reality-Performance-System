@@ -1,6 +1,6 @@
 # Goal for the First Day of Testing
 
-The primary goal for the first day of testing (2025-01-16) is to assemble and configure the testing infrastructure to ensure all equipment and materials are prepared for subsequent evaluation. This includes setting up the T-slot 6' x 6' frame, calibrating the projector, and positioning cameras to capture simultaneous front and rear projection images. By the end of the day, the team aims to establish a stable testing environment and document the setup process for consistent replication in future sessions.
+The primary goal for the first day of testing (2025-01-16) is to assemble and configure the testing infrastructure to ensure all equipment and materials are prepared for subsequent evaluation. This includes setting up the T-slot 6' x 6' frame, acquiring appropriate test images, calibrating the projector, and positioning cameras to capture simultaneous front and rear projection images. By the end of the day, the team aims to establish a stable testing environment and document the setup process for consistent replication in future sessions.
 
 ## Specific Objectives
 
